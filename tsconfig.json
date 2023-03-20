@@ -3,7 +3,7 @@
         "lib": ["ESNext", "dom"],
         "outDir": "dist",
         "removeComments": true,
-        "target": "ES6",
+        "target": "ES5",
 
         "baseUrl": "./",
         "esModuleInterop": true,
